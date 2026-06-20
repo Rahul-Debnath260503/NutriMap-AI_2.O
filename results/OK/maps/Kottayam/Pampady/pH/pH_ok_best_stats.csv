@@ -1,0 +1,2 @@
+district,block,target,variogram_model,grid_resolution_m,pred_min,pred_max,variance_min,variance_max,sample_count
+Kottayam,Pampady,pH,linear,100,5.363401300120001,6.178065095427432,0.5141843346110759,0.5762368677725689,1856

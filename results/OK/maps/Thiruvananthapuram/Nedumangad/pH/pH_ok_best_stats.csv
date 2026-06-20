@@ -1,0 +1,2 @@
+district,block,target,variogram_model,grid_resolution_m,pred_min,pred_max,variance_min,variance_max,sample_count
+Thiruvananthapuram,Nedumangad,pH,linear,100,6.40589891700321,6.405914682999093,0.541361714518974,0.5413618626353908,999

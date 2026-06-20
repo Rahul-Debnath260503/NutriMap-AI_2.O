@@ -1,0 +1,2 @@
+district,block,target,variogram_model,grid_resolution_m,pred_min,pred_max,variance_min,variance_max,sample_count
+Kottayam,Pampady,S,spherical,100,2.163779277389252,118.14165360879942,715.9772500015588,1233.008893039383,1856

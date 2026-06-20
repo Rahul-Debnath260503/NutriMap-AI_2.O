@@ -1,0 +1,2 @@
+district,block,target,variogram_model,grid_resolution_m,pred_min,pred_max,variance_min,variance_max,sample_count
+Kottayam,Pampady,Mn,exponential,100,0.9971135915967788,32.40369277599261,0.1470078777883229,34.76704397770955,1856

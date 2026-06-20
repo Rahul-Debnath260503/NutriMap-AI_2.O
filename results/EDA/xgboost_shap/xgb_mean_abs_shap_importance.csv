@@ -1,0 +1,10 @@
+feature,mean_abs_shap
+Rainfall,10.194381
+Temperature_C,10.052538
+Elevation,4.452579
+Soil_Moisture,3.9450717
+NDWI,2.7917688
+NDVI,2.5237448
+Aspect,2.2915232
+Slope,1.9204242
+LULC,0.124433845

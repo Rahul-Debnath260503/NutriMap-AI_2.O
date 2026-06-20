@@ -1,0 +1,3 @@
+Final notebook that have correct code: 
+D:\NutriMap-AI\notebooks\05_final_data_validation.ipynb
+D:\NutriMap-AI\notebooks\06_env_data_adding.ipynb

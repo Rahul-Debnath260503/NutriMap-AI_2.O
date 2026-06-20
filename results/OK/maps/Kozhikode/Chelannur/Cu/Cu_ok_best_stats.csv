@@ -1,0 +1,2 @@
+district,block,target,variogram_model,grid_resolution_m,pred_min,pred_max,variance_min,variance_max,sample_count
+Kozhikode,Chelannur,Cu,spherical,100,1.1916059384414095,4.488955405778488,2.607817704092388,3.0898126225337323,1002

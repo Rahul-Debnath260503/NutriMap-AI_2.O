@@ -1,0 +1,2 @@
+district,block,target,variogram_model,grid_resolution_m,pred_min,pred_max,variance_min,variance_max,sample_count
+Kottayam,Pampady,Ca,gaussian,100,148.66528974557994,682.8288407785835,84392.07348567902,104310.23996272127,1856

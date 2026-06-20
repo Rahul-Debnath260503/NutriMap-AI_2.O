@@ -1,0 +1,4 @@
+package,available,used_in_this_run,note
+scikit-learn,True,True,Used for Random Forest feature importance and spatial group CV.
+xgboost,False,False,Required for the planned XGBoost feature-importance step.
+shap,False,False,Required for the planned SHAP explanation step.

@@ -1,0 +1,2 @@
+district,block,target,variogram_model,grid_resolution_m,pred_min,pred_max,variance_min,variance_max,sample_count
+Kozhikode,Chelannur,Ca,gaussian,100,212.01054051556758,793.2016155005106,23842.430621724197,31328.030551953747,1002

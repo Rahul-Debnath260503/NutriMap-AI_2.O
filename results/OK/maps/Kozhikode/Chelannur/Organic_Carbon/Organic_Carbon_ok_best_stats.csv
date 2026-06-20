@@ -1,0 +1,2 @@
+district,block,target,variogram_model,grid_resolution_m,pred_min,pred_max,variance_min,variance_max,sample_count
+Kozhikode,Chelannur,Organic_Carbon,linear,100,0.6631704840730024,2.1971719802543257,0.5592231733295536,0.7084824107015202,1002

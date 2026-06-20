@@ -1,0 +1,2 @@
+district,block,target,variogram_model,grid_resolution_m,pred_min,pred_max,variance_min,variance_max,sample_count
+Kottayam,Pampady,Zn,exponential,100,0.11446598751536662,1.8599647594214264,0.06335821222131353,0.30472430149596147,1856

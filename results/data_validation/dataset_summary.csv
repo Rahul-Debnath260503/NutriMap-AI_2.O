@@ -1,0 +1,4 @@
+dataset,rows,columns,missing_values,duplicate_rows,latitude_min,latitude_max,longitude_min,longitude_max
+clean_final,5494,17,1,0,8.540138,11.44,75.747,77.048711
+ml_ready,4912,17,0,0,8.540138,11.44,75.747,77.048711
+environmental_features,4908,28,0,0,8.540138244628906,11.4399995803833,75.74700164794922,77.048711

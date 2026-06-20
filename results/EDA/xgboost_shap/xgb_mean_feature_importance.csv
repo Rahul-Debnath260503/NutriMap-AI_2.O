@@ -1,0 +1,10 @@
+feature,importance
+Temperature_C,0.23272346
+Rainfall,0.19859296
+Soil_Moisture,0.18922202
+Elevation,0.07854946
+NDWI,0.06793114
+NDVI,0.066806264
+Aspect,0.06645148
+Slope,0.060854774
+LULC,0.038868453

@@ -1,0 +1,2 @@
+district,block,target,variogram_model,grid_resolution_m,pred_min,pred_max,variance_min,variance_max,sample_count
+Thiruvananthapuram,Nedumangad,Organic_Carbon,linear,100,1.7035335225000567,1.7035335436386971,1.0208565996674788,1.0208566000956394,999

@@ -1,0 +1,2 @@
+district,block,target,variogram_model,grid_resolution_m,pred_min,pred_max,variance_min,variance_max,sample_count
+Thiruvananthapuram,Nedumangad,Cu,spherical,100,1.3368073728482568,4.969611084159719,2.571588887086615,4.347094191794271,999

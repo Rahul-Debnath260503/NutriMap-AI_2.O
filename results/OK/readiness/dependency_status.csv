@@ -1,0 +1,5 @@
+package,available,purpose
+geopandas,True,Coordinate projection to UTM.
+scipy,True,Nearest-neighbor diagnostics.
+pykrige,True,Ordinary Kriging and variogram modeling.
+gstools,True,Variogram modeling and kriging alternative.

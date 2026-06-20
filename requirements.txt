@@ -1,0 +1,54 @@
+# Pinned from the project virtual environment on 2026-06-20.
+# Use with a fresh venv: `pip install -r requirements.txt`
+
+# Core scientific stack
+numpy==2.4.2
+pandas==2.3.3
+scipy==1.17.0
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Jupyter
+jupyterlab==4.5.4
+notebook==7.5.3
+ipykernel==7.2.0
+
+# Machine Learning
+scikit-learn==1.8.0
+xgboost==3.2.0
+lightgbm==4.6.0
+catboost==1.2.10
+optuna==4.9.0
+shap==0.51.0
+joblib==1.5.3
+
+# Deep Learning
+torch==2.10.0
+torchvision==0.25.0
+torchaudio==2.10.0
+tensorflow==2.20.0
+
+# GIS & Spatial
+geopandas==1.1.2
+shapely==2.1.2
+fiona==1.10.1
+pyproj==3.7.2
+rtree==1.4.1
+rasterio==1.4.4
+pykrige==1.7.3
+gstools==1.7.0
+
+# Remote Sensing
+earthpy==0.9.4
+rioxarray==0.19.0
+xarray==2026.2.0
+netCDF4==1.7.4
+
+# Visualization
+folium==0.20.0
+plotly==6.5.2
+
+# Utilities
+tqdm==4.67.3
+opencv-python==4.13.0.92
+Pillow==12.1.1
